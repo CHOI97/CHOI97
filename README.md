@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @CHOI97
+- 👋 Hi, I’m CHOI
 
 <!---
 CHOI97/CHOI97 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
