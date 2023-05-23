@@ -1,4 +1,4 @@
-- 늘 꾸준하게..👏
+- Android💜
 
 <!---
 CHOI97/CHOI97 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
