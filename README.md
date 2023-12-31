@@ -2,7 +2,7 @@
 <img src="https://capsule-render.vercel.app/api?type=venom&color=3DDC84FF&height=200&section=header&text=Choi%20.Dev&fontSize=90&fontColor=FFFFFF" />
 
 ## Hello I'm Choi :raised_hands:
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=2000&color=3DDC84&center=true&repeat=false&vCenter=true&random=false&width=500&lines=+Preparing+to+become+an+Android++Developer+" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=2000&color=3DDC84&center=true&vCenter=true&random=false&width=500&lines=+Preparing+to+become+an+Android++Developer+" alt="Typing SVG" /></a>
 <br/><br/>
 
 
@@ -23,5 +23,5 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CHOI97&show_icons=true&theme=Default)
    <br/><br/><br/>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&center=true&vCenter=true&repeat=false&random=false&width=435&lines=Talk+is+cheap+Show+me+the+code" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&center=true&vCenter=true&random=false&width=435&lines=Talk+is+cheap+Show+me+the+code" alt="Typing SVG" /></a>
 </div>
