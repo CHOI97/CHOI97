@@ -1,5 +1,5 @@
 <div align=center>
-<img src="https://capsule-render.vercel.app/api?type=venom&color=3DDC84FF&height=200&section=header&text=Choi%20.Dev&fontSize=90&fontColor=FFFFFF" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=3DDC84FF&height=200&section=header&text=Choi%20.Dev&fontSize=90&fontColor=000000" />
   
 ## Hello I'm Choi :raised_hands:
 <br/>
