@@ -3,7 +3,7 @@
   
 ## Hello I'm Choi :raised_hands:
 <br/>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=2000&color=3DDC84&center=true&vCenter=true&random=false&width=500&lines=+Preparing+to+become+an+Android++Developer+" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=2000&color=3DDC84&center=true&vCenter=true&random=false&width=500&lines=+Android++Developer+" alt="Typing SVG" /></a>
 </div>
 <br/>
 
