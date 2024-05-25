@@ -1,15 +1,6 @@
 <div align=center>
 <img src="https://capsule-render.vercel.app/api?type=venom&color=3DDC84FF&height=200&section=header&text=Choi%20.Dev&fontSize=90&fontColor=000000" />
-  
-## Hello I'm Choi :raised_hands:
-<br/>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=2000&color=3DDC84&center=true&vCenter=true&random=false&width=500&lines=+Android++Developer+" alt="Typing SVG" /></a>
-</div>
-<br/>
 
-## Stacks :hammer_and_wrench:
-<br/>
-<div align=center>
   
   ### Tech
   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
@@ -47,11 +38,7 @@
 <br/>
 
 
-## Github Stats :smile_cat:
-<div align=center>
- <img src="https://github-readme-stats.vercel.app/api?username=CHOI97&theme=blue-green" width="49.2%"/>
-</div>
- <br/>
+
 
  <div align=right>
    
