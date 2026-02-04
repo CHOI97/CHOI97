@@ -1,5 +1,3 @@
-<div align=center>
-<img src="https://capsule-render.vercel.app/api?type=venom&color=3DDC84FF&height=200&section=header&text=Choi%20.Dev&fontSize=90&fontColor=000000" />
 
 <!--
   ### Tech
@@ -35,10 +33,7 @@
   <a href="https://www.instagram.com/down_upper"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 <!--   <img src=""/> -->
 
-</div>
+
 <div align="center">
   🤓
 </div>
-<br/>
-</div>
-
